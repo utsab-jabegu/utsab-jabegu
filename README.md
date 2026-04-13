@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Analyst <br>Currently expanding my skills towards applied ML and intelligent data systems.
+Data Analyst <br>Currently Expanding my Skills towards Applied ML and Intelligent Data Systems.
 
 
 # 💻 Tech Stack:
